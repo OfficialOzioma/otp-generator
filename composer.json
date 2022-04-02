@@ -1,4 +1,5 @@
 {
+    "name":"officialozioma/otp-generator",
     "description": "Laravel OTP generator and validation",
     "homepage": "https://github.com/officialOzioma/OTP-generator",
     "keywords": [
